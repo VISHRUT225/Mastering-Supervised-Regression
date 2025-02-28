@@ -42,7 +42,7 @@ This project demonstrates the process of building and fine-tuning regression mod
 - Train-Test Split: Using an 80/20 split.  
 
 🔹 **Example Visualization:**  
-![Dataset Visualization](model_and_results/data_visualization.png)
+![Dataset Visualization](model_and_results/dataset_visualization.png)
 
 ---
 
